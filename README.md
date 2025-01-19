@@ -1,0 +1,2 @@
+# Groovy `eachWithIndex` Gotcha
+This example demonstrates a common error in Groovy when modifying a list while iterating with `eachWithIndex`. Modifying the list within the loop causes index mismatches and unpredictable results. The solution provides a safer approach.
